@@ -3,76 +3,76 @@
   --demo1:hsl(98, 100%, 50%);/*Use this only to check the color (--pri) if is fine*/
   --pri:98; /*Change only this from the color that you need! Don't Touch the code below!*/
   /*The color below is automaticaly created 20 levels of lightness*/
-  --priCol100:hsl(var(--pri), 100%, 100%);
-  --priCol95:hsl(var(--pri), 100%, 95%);
-  --priCol90:hsl(var(--pri), 100%, 90%);
-  --priCol85:hsl(var(--pri), 100%, 85%);
-  --priCol80:hsl(var(--pri), 100%, 80%);
-  --priCol75:hsl(var(--pri), 100%, 75%);
-  --priCol70:hsl(var(--pri), 100%, 70%);
-  --priCol65:hsl(var(--pri), 100%, 65%);
-  --priCol60:hsl(var(--pri), 100%, 60%);
-  --priCol55:hsl(var(--pri), 100%, 55%);
-  --priCol50:hsl(var(--pri), 100%, 50%);
-  --priCol45:hsl(var(--pri), 100%, 45%);
-  --priCol40:hsl(var(--pri), 100%, 40%);
-  --priCol35:hsl(var(--pri), 100%, 35%);
-  --priCol30:hsl(var(--pri), 100%, 30%);
-  --priCol25:hsl(var(--pri), 100%, 25%);
-  --priCol20:hsl(var(--pri), 100%, 20%);
-  --priCol15:hsl(var(--pri), 100%, 15%);
-  --priCol10:hsl(var(--pri), 100%, 10%);
-  --priCol5:hsl(var(--pri), 100%, 5%);
+  --priCol20:hsl(var(--pri), 100%, 100%);
+  --priCol19:hsl(var(--pri), 100%, 95%);
+  --priCol18:hsl(var(--pri), 100%, 90%);
+  --priCol17:hsl(var(--pri), 100%, 85%);
+  --priCol16:hsl(var(--pri), 100%, 80%);
+  --priCol15:hsl(var(--pri), 100%, 75%);
+  --priCol14:hsl(var(--pri), 100%, 70%);
+  --priCol13:hsl(var(--pri), 100%, 65%);
+  --priCol12:hsl(var(--pri), 100%, 60%);
+  --priCol11:hsl(var(--pri), 100%, 55%);
+  --priCol10:hsl(var(--pri), 100%, 50%);
+  --priCol9:hsl(var(--pri), 100%, 45%);
+  --priCol8:hsl(var(--pri), 100%, 40%);
+  --priCol7:hsl(var(--pri), 100%, 35%);
+  --priCol6:hsl(var(--pri), 100%, 30%);
+  --priCol5:hsl(var(--pri), 100%, 25%);
+  --priCol4:hsl(var(--pri), 100%, 20%);
+  --priCol3:hsl(var(--pri), 100%, 15%);
+  --priCol2:hsl(var(--pri), 100%, 10%);
+  --priCol1:hsl(var(--pri), 100%, 5%);
 
   /*### SecondColor ###*/
   --demo2:hsl(207, 100%, 50%);/*Use this only to check the color (--pri) if is fine*/
   --sec:207; /*Change only this from the color that you need! Don't Touch the code below!*/
   /*The color below is automaticaly created 20 levels of lightness*/
-  --secCol100:hsl(var(--sec), 100%, 100%);
-  --secCol95:hsl(var(--sec), 100%, 95%);
-  --secCol90:hsl(var(--sec), 100%, 90%);
-  --secCol85:hsl(var(--sec), 100%, 85%);
-  --secCol80:hsl(var(--sec), 100%, 80%);
-  --secCol75:hsl(var(--sec), 100%, 75%);
-  --secCol70:hsl(var(--sec), 100%, 70%);
-  --secCol65:hsl(var(--sec), 100%, 65%);
-  --secCol60:hsl(var(--sec), 100%, 60%);
-  --secCol55:hsl(var(--sec), 100%, 55%);
-  --secCol50:hsl(var(--sec), 100%, 50%);
-  --secCol45:hsl(var(--sec), 100%, 45%);
-  --secCol40:hsl(var(--sec), 100%, 40%);
-  --secCol35:hsl(var(--sec), 100%, 35%);
-  --secCol30:hsl(var(--sec), 100%, 30%);
-  --secCol25:hsl(var(--sec), 100%, 25%);
-  --secCol20:hsl(var(--sec), 100%, 20%);
-  --secCol15:hsl(var(--sec), 100%, 15%);
-  --secCol10:hsl(var(--sec), 100%, 10%);
-  --secCol5:hsl(var(--sec), 100%, 5%);
+  --secCol20:hsl(var(--sec), 100%, 100%);
+  --secCol19:hsl(var(--sec), 100%, 95%);
+  --secCol18:hsl(var(--sec), 100%, 90%);
+  --secCol17:hsl(var(--sec), 100%, 85%);
+  --secCol16:hsl(var(--sec), 100%, 80%);
+  --secCol15:hsl(var(--sec), 100%, 75%);
+  --secCol14:hsl(var(--sec), 100%, 70%);
+  --secCol13:hsl(var(--sec), 100%, 65%);
+  --secCol12:hsl(var(--sec), 100%, 60%);
+  --secCol11:hsl(var(--sec), 100%, 55%);
+  --secCol10:hsl(var(--sec), 100%, 50%);
+  --secCol9:hsl(var(--sec), 100%, 45%);
+  --secCol8:hsl(var(--sec), 100%, 40%);
+  --secCol7:hsl(var(--sec), 100%, 35%);
+  --secCol6:hsl(var(--sec), 100%, 30%);
+  --secCol5:hsl(var(--sec), 100%, 25%);
+  --secCol4:hsl(var(--sec), 100%, 20%);
+  --secCol3:hsl(var(--sec), 100%, 15%);
+  --secCol2:hsl(var(--sec), 100%, 10%);
+  --secCol1:hsl(var(--sec), 100%, 5%);
 
     /*### ThirdColor ###*/
     --demo3:hsl(280, 100%, 50%);/*Use this only to check the color (--pri) if is fine*/
     --thi:280; /*Change only this from the color that you need! Don't Touch the code below!*/
     /*The color below is automaticaly created 20 levels of lightness*/
-    --thiCol100:hsl(var(--thi), 100%, 100%);
-    --thiCol95:hsl(var(--thi), 100%, 95%);
-    --thiCol90:hsl(var(--thi), 100%, 90%);
-    --thiCol85:hsl(var(--thi), 100%, 85%);
-    --thiCol80:hsl(var(--thi), 100%, 80%);
-    --thiCol75:hsl(var(--thi), 100%, 75%);
-    --thiCol70:hsl(var(--thi), 100%, 70%);
-    --thiCol65:hsl(var(--thi), 100%, 65%);
-    --thiCol60:hsl(var(--thi), 100%, 60%);
-    --thiCol55:hsl(var(--thi), 100%, 55%);
-    --thiCol50:hsl(var(--thi), 100%, 50%);
-    --thiCol45:hsl(var(--thi), 100%, 45%);
-    --thiCol40:hsl(var(--thi), 100%, 40%);
-    --thiCol35:hsl(var(--thi), 100%, 35%);
-    --thiCol30:hsl(var(--thi), 100%, 30%);
-    --thiCol25:hsl(var(--thi), 100%, 25%);
-    --thiCol20:hsl(var(--thi), 100%, 20%);
-    --thiCol15:hsl(var(--thi), 100%, 15%);
-    --thiCol10:hsl(var(--thi), 100%, 10%);
-    --thiCol5:hsl(var(--thi), 100%, 5%);
+    --thiCol20:hsl(var(--thi), 100%, 100%);
+    --thiCol19:hsl(var(--thi), 100%, 95%);
+    --thiCol18:hsl(var(--thi), 100%, 90%);
+    --thiCol17:hsl(var(--thi), 100%, 85%);
+    --thiCol16:hsl(var(--thi), 100%, 80%);
+    --thiCol15:hsl(var(--thi), 100%, 75%);
+    --thiCol14:hsl(var(--thi), 100%, 70%);
+    --thiCol13:hsl(var(--thi), 100%, 65%);
+    --thiCol12:hsl(var(--thi), 100%, 60%);
+    --thiCol11:hsl(var(--thi), 100%, 55%);
+    --thiCol10:hsl(var(--thi), 100%, 50%);
+    --thiCol9:hsl(var(--thi), 100%, 45%);
+    --thiCol8:hsl(var(--thi), 100%, 40%);
+    --thiCol7:hsl(var(--thi), 100%, 35%);
+    --thiCol6:hsl(var(--thi), 100%, 30%);
+    --thiCol5:hsl(var(--thi), 100%, 25%);
+    --thiCol4:hsl(var(--thi), 100%, 20%);
+    --thiCol3:hsl(var(--thi), 100%, 15%);
+    --thiCol2:hsl(var(--thi), 100%, 10%);
+    --thiCol1:hsl(var(--thi), 100%, 5%);
 
   /*######################################*/
 

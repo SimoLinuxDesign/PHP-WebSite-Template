@@ -15,7 +15,7 @@
 
 <?php /*Template Header*/ include "./template/header.php";?>
 
-<?php /*Page Switching*/ include "./pages/" . $page . ".php";?>
+<?php /*Dinamic Page Switching*/ include "./pages/" . $page . ".php";?> 
 
 <?php /*Template Footer*/ include "./template/footer.php";?>
 
